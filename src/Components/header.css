@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.flex-container {
+  width: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+.score {
+  text-align: center;
+}
+.computer,
+.player {
+  font-size: 2rem;
+}
+.computer-score,
+.player-score {
+  font-size: 3rem;
+}
